@@ -21,7 +21,7 @@ resource "azurerm_resource_group" "R2" {
 }
 
 resource "azurerm_resource_group" "R4" {
-  name     = "RG5"
+  name     = "RG4"
   location = "West Europe"
 }
 
